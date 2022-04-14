@@ -1,0 +1,156 @@
+
+    /* .frontendmaster{
+        
+    } */
+
+    /*  .navlinks{  
+        
+    } */
+
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    .browndiv1{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(140, 7, 7);
+        padding: 10px 100px 10px 100px;
+        border-bottom: 15px solid orangered; 
+        
+        
+    }
+    body{
+        margin: 0;
+        padding: 0;
+        background-size: cover;
+        font-family: sans-serif;
+
+    }
+    .input-box{
+width: 300px;
+        box-shadow: 0 0 3px 0 rgba(0,0,0,0,3);
+        background: #fff;
+        padding: 20px;
+        margin: 8% auto 0;
+        text-align: center;
+        border-radius: 20px;
+        padding: 10px;
+
+
+    }
+    
+    ul{
+display: flex;
+list-style: none;
+
+
+    }
+
+    li{
+        padding-right: 15px;
+    }
+    li a{
+        text-decoration: none;
+        font-size: 20PX;
+        color: white;
+
+    }
+    
+
+    li button{
+        background-color: rgb(239, 65, 34);
+        padding: 10PX 20px 10PX 20PX;
+        border-radius:25PX  ;
+    }
+    .frontend{
+        color: white;
+        font-family:  Calibri;
+        font-size: 35px;
+    
+    }
+   .Master{
+       color: tomato;
+       font-family:Script MT Bold;
+       font-size: 30px;
+   }
+   body{
+    background-color: black;
+   }
+  
+   #User {
+       text-align: center;
+       margin-top:15px;
+       padding: 15px;
+       height: 150px;
+       
+   }
+    #User #label1{
+       color: #fff;
+       margin-left: 0;
+       line-height: 30px;
+
+   }
+   #User{
+       color: #fff;
+       top: 50%;
+       left: 50%;
+       border-radius: 70%;
+       
+    
+       
+   }
+   #User #label2{
+       
+       margin-left: 0;
+       line-height: 20px;
+   }
+
+ .{
+     padding: 0;
+     margin: 0;
+     font-family: sans-serif;
+     
+ }
+ .login-form{
+     width: 450px;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     position: absolute;
+     color: #fff;
+
+ }
+ .login-form h1{
+     font-size: 30px;
+     text-align: center;
+     text-transform: uppercase;
+     margin: 30px 0;
+ }
+ 
+    button{
+       background-color: rgb(239, 65, 34);
+       padding: 10px 20px 10px;
+       border-radius: 20px;
+       color: white;
+       font-size: 20px;
+       }
+       
+.browndiv2{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 100px 100px 100px 100px;
+}
+    ul{
+        padding-left: 450px;
+    }   
+    li a{
+        text-decoration: none;
+        font-size: 20px;
+
+    }
+       
+   
+       
+    
