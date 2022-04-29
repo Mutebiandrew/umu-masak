@@ -75,23 +75,25 @@ list-style: none;
        font-size: 30px;
    }
    body{
-    background-color: black;
+    background-color: rgb(41, 39, 39);
    }
   
-   #User {
-       text-align: center;
-       margin-top:15px;
-       padding: 15px;
-       height: 150px;
+   .user {
+       padding: left 300px;
+       padding-right: 300px;
+       margin-left: 600px;
+       margin-right: 30px;
+       
+       
        
    }
-    #User #label1{
+    .user #label1{
        color: #fff;
        margin-left: 0;
-       line-height: 30px;
+       line-height: 50px;
 
    }
-   #User{
+   .user{
        color: #fff;
        top: 50%;
        left: 50%;
@@ -100,7 +102,7 @@ list-style: none;
     
        
    }
-   #User #label2{
+   .user #label2{
        
        margin-left: 0;
        line-height: 20px;
@@ -140,7 +142,7 @@ list-style: none;
     display: flex;
     justify-content: space-between;
     background-color: black;
-    padding: 100px 100px 100px 100px;
+    padding: 30px 30px 30px 30px;
 }
     ul{
         padding-left: 450px;
@@ -150,7 +152,30 @@ list-style: none;
         font-size: 20px;
 
     }
-       
+     
+     .maindiv1{
+         text-align: left;
+         padding: 20px 10px 20px 10px;
+     }
+     .navlink{
+        display: flex-start;
+        justify-content: flex-start;
+        
+     }
+     .word{
+         text-align: right;
+         padding: 10px 20px 10px;
+     }
+     .maindiv{
+         text-align: right;
+         padding: 20px 10px 20px 10px;
+         margin-left: 10PX;
+         margin-right: 20px;
+     }
+    .Browndiv2{
+        text-align: left;
+        padding: 20px 20px 20px 20px;
+     }
    
        
     
